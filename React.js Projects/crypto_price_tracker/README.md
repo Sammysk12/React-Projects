@@ -21,5 +21,5 @@ CryptoPlace is a React.js web application that provides real-time cryptocurrency
 
 
 
-
+![image_alt](https://github.com/Sammysk12/React-Projects/blob/de7db8aab65e2cab22d6803839d7bd43846203c8/React.js%20Projects/crypto_price_tracker/Screenshot%202025-02-28%20233158.png)
  
