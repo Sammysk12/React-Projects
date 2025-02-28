@@ -1,12 +1,25 @@
-# React + Vite
+# CryptoPlace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoPlace is a React.js web application that provides real-time cryptocurrency data fetched from the CoinGecko API. It offers users a comprehensive overview of various cryptocurrencies, including market capitalization, 24-hour price changes, 1-day highs and lows, and a 10-day historical price chart.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Real-time Cryptocurrency Data:** Fetches and displays up-to-date data from the CoinGecko API.
+* **Detailed Coin Information:** Provides key metrics such as market cap, 24-hour change, and daily highs/lows.
+* **10-Day Historical Chart:** Visualizes price trends with a dynamic chart for the past 10 days.
+* **React Context API:** Utilizes React's Context API for efficient state management.
+* **API Integration:** Demonstrates effective API calling and data handling in a React application.
+* **Responsive Design:** Ensures a consistent user experience across different devices.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* CoinGecko API
+* ContextAPI
+* React Router
+* React chart graph
+
+
+
+
+ 
