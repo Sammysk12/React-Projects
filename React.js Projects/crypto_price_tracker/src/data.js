@@ -1,0 +1,1 @@
+const CG_API_KEY =`CG-p4Qx4HoFfZA1b4ostjore5kw`;
